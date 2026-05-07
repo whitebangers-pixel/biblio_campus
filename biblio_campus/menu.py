@@ -1,2 +1,1 @@
-test print("1. Gérer les livres")
-version a
+print("1. Gérer les livres")
